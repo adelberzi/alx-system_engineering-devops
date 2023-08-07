@@ -1,3 +1,2 @@
-#!/bin/bas
-int main (){
-cout << "Hello World" << endl; }
+#!/bin/bash
+echo "Hello, World"
