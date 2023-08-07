@@ -1,0 +1,3 @@
+#!/bin/bas
+int main (){
+cout << "Hello World" << endl; }
